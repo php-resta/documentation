@@ -10,7 +10,7 @@ Check out this link.
 ## How to install the resta?
 
 ```bash
-$ composer create-project php-resta/skeleton company_name 1.*
+$ composer create-project php-resta/skeleton company_name dev-master
 ```
 > **company_name:** The directory to which you will install the resta api is generally a group name that is valid for your company name or projects.Thus, your api projects will be in this general directory.
 
