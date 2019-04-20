@@ -12,4 +12,4 @@ Check out this link.
 ```bash
 $ composer create-project php-resta/skeleton company_name 1.*
 ```
-> **company_name:** The directory to which you will install the resta api is generally a group name that is valid for your company name or projects.
+> **company_name:** The directory to which you will install the resta api is generally a group name that is valid for your company name or projects.Thus, your api projects will be in this general directory.
