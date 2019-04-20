@@ -6,3 +6,10 @@ You will need to install it first, as with any framework or package.
 We need a composer installer to install the resta api.
 If you don't have a composer uploader, please [composer](https://getcomposer.org/download)
 Check out this link.
+
+## How to install the resta?
+
+```php
+
+composer create-project php-resta/skeleton company_name 1.*
+```
