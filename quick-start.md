@@ -9,7 +9,6 @@ Check out this link.
 
 ## How to install the resta?
 
-```php
-
-composer create-project php-resta/skeleton company_name 1.*
+```bash
+$ composer create-project php-resta/skeleton company_name 1.*
 ```
