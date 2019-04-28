@@ -108,4 +108,44 @@ As mentioned earlier, the directory where you create the resta skeleton reposito
 
 Congratulations! You took the first exception output :). Don't worry, you haven't done anything yet.
 
+## Create your first controller structure.
+
+```bash
+$ php api controller create demo controller:users
+```
+Then let's create our first endpoint.Try creating your first controller with the command above.
+
+```bash
+$  > Controller called as "Users" has been successfully created in the /path/company_name/src/app/Demo/Api/V1/Controllers
+
+```
+
+Great! Your first controller has been successfully created. Now you'll see a controller directory created by looking into the V1 directory.
+We will not describe the structure in this directory in this section. You will already find detailed information in our documents.
+
+
+```code
+http://localhost/company_name/public/demo/users
+http://localhost/company_name/public/demo/v1/users //the same as the above request.
+
+```
+
+Now open your browser again and change the URL string that you specified with the demo to demo/users and request the request.
+
+```code
+{
+"meta": {
+"success": true,
+"status": 200,
+"illuminator": null
+},
+"resource": {
+"endpoint": "Users"
+}
+}
+```
+
+This is great! We now have the first http 200 output.By default the system produces you json.You can find in our documentation how to change it.
+This output is called our endpoint users and has a class as UsersController in the Users directory.
+
 
