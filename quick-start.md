@@ -184,7 +184,7 @@ class UsersController extends App
 ```
 
 Did you like it? in that case,continue reading our documents.We want you to have a nice the restfull api.
-As you read the resta documents, we can say from now that you will say perfect for resta.Because the resta has wonderful facilities.
+As you read the resta documents, we can say from now that you will say perfect for resta.Because the resta has wonderful amenities.
 
 
 
