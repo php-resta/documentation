@@ -43,7 +43,20 @@ Demo/
 |- Api/
 |  |- V1/
 |     |- Config/
+|        |- App.php
+|        |- Authenticate.php
+|        |- AutoServices.php
+|        |- Cache.php
+|        |- Database.php
+|        |- Hateoas.php
+|        |- Redis.php
+|        |- Slack.php
 |     |- Middleware/
+|        |- Authenticate.php
+|        |- ClientApiToken.php
+|        |- RateLimit.php
+|        |- SetClientTimezone.php
+|        |- TrustedProxies.php   
 |     |- ServiceAnnotationsManager.php
 |     |- ServiceEventDispatcherManager.php
 |     |- ServiceLogManager.php
