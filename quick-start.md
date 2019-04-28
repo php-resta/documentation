@@ -28,3 +28,11 @@ Now it's time to create our project.Your project will be created in the src / ap
 ```bash
 $ php api project create demo
 ```
+
+If you get a response similar to the following, Oh! Excellent. You now have a new project called demo.
+
+```bash
+$  > Application called as "Demo" has been successfully created in the /path/company_name/src/app/Demo/
+```
+
+
