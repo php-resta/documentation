@@ -85,4 +85,10 @@ This project structure is created by default with each project command.Find out 
 Since this section is a quick start, we won't write here what these directory structures do.
 We'll just show you how to quickly reach your endpoints.
 
+## Access your endpoints with the browser.
+
+```code
+https://localhost/company_name/public/demo
+```
+
 
