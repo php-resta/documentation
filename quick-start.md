@@ -47,7 +47,7 @@ Demo/
 |     |- Config/
 |     |- Middleware/
 |     |- ServiceAnnotationsManager.php
-|     |- ServiceEventDispatcher Manager.php
+|     |- ServiceEventDispatcherManager.php
 |     |- ServiceLogManager.php
 |     |- ServiceMiddlewareManager.php  
 |
