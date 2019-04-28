@@ -35,4 +35,46 @@ If you get a response similar to the following, Oh! Excellent. You now have a ne
 $  > Application called as "Demo" has been successfully created in the /path/company_name/src/app/Demo/
 ```
 
+Your project is located in the directory called src / app / Demo. Below you can see the structure of your project.
+
+```code
+
+
+Demo/
+|
+|- Api/
+|  |- V1/
+|     |- Config/
+|     |- Middleware/
+|     |- ServiceAnnotationsManager.php
+|     |- ServiceEventDispatcher Manager.php
+|     |- ServiceLogManager.php
+|     |- ServiceMiddlewareManager.php  
+|
+|- Kernel/
+|  |- Node/
+|  |- Providers/
+|  |- Stub/
+|  |- Kernel.php
+|  |- Version.php
+|
+|- Storage/
+|  |- Language
+|  |- Log
+|  |- Resource
+|  |- index.html
+|
+|- Tests/
+|  |- index.html
+|
+|- Webservice/
+|  |- index.html
+|
+|- .gitignore
+|- composer.json
+|- README.md
+
+```
+
+
 
