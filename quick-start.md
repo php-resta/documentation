@@ -130,7 +130,7 @@ http://localhost/company_name/public/demo/v1/users //the same as the above reque
 
 ```
 
-Now open your browser again and change the URL string that you specified with the demo to demo/users and request the request.
+Now open your browser again and change the URL string that you specified with the demo to demo/users and send the request.
 
 ```code
 {
