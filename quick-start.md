@@ -93,3 +93,19 @@ Now open your browser and enter the above address via localhost or ip.
 As mentioned earlier, the directory where you create the resta skeleton repository structure will be your company_name name.
 
 
+```code
+{
+"meta": {
+"success": false,
+"status": 401,
+"illuminator": null
+},
+"resource": {
+"errorMessage": "No Endpoint"
+}
+}
+```
+
+Congratulations! You took the first exception output :). Don't worry, you haven't done anything yet.
+
+
