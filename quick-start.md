@@ -53,6 +53,7 @@ Demo/
 |
 |- Kernel/
 |  |- Node/
+|     |- index.html
 |  |- Providers/
 |     |- AppServiceProvider.php
 |     |- ConsoleEventServiceProvider.php
