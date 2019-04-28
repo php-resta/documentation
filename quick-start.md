@@ -23,7 +23,7 @@ You can pass to the home directory of your project using the terminal command.
 
 ## Create your first project.
 
-Now it's time to create our project.Your project will be created in the src / app directory.Let's create a project named demo with the command below.
+Now it's time to create our project.Your project will be created in the src/app directory.Let's create a project named demo with the command below.
 
 ```bash
 $ php api project create demo
