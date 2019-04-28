@@ -149,3 +149,25 @@ This is great! We now have the first http 200 output.By default the system produ
 This output is called our endpoint users and has a class as UsersController in the Users directory.
 
 
+```code
+<?php
+
+namespace App\Demo\Api\V1\Controllers\Users;
+
+class UsersController extends App
+{
+    /**
+     * #define: get Users
+     *
+     * @return mixed|array
+     */
+    public function index()
+    {
+        return [
+            'endpoint'=>'Users'
+        ];
+    }
+}
+```
+
+
