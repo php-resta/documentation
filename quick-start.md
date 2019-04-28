@@ -88,7 +88,7 @@ We'll just show you how to quickly reach your endpoints.
 ## Access your endpoints with the browser.
 
 ```code
-https://localhost/company_name/public/demo
+http://localhost/company_name/public/demo
 ```
 
 
