@@ -146,7 +146,7 @@ Now open your browser again and change the URL string that you specified with th
 ```
 
 This is great! We now have the first http 200 output.By default the system produces you json.You can find in our documentation how to change it.
-This output is called our endpoint users and has a class as UsersController in the Users directory.
+This output is called as endpoint "users" and has a class as UsersController in the Users directory.
 
 
 ```code
