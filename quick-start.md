@@ -38,8 +38,6 @@ $  > Application called as "Demo" has been successfully created in the /path/com
 Your project is located in the directory called src / app / Demo. Below you can see the structure of your project.
 
 ```code
-
-
 Demo/
 |
 |- Api/
