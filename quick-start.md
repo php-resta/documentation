@@ -81,5 +81,8 @@ Demo/
 
 ```
 
+This project structure is created by default with each project command.Find out how to customize this structure in documents.
+Since this section is a quick start, we won't write here what these directory structures do.
+We'll just show you how to quickly reach your endpoints.
 
 
