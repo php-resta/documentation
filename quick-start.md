@@ -89,4 +89,7 @@ We'll just show you how to quickly reach your endpoints.
 http://localhost/company_name/public/demo
 ```
 
+Now open your browser and enter the above address via localhost or ip.
+As mentioned earlier, the directory where you create the resta skeleton repository structure will be your company_name name.
+
 
