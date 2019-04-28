@@ -54,7 +54,11 @@ Demo/
 |- Kernel/
 |  |- Node/
 |  |- Providers/
+|     |- AppServiceProvider.php
+|     |- ConsoleEventServiceProvider.php
+|     |- RouteServiceProvider.php
 |  |- Stub/
+|     |- index.html
 |  |- Kernel.php
 |  |- Version.php
 |
